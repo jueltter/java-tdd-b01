@@ -1,3 +1,6 @@
 [submodule "java-tdd-b010501"]
 	path = java-tdd-b010501
 	url = git@github.com:jueltter/java-tdd-b010501.git
+[submodule "wordz"]
+	path = wordz
+	url = git@github.com:jueltter/wordz.git
